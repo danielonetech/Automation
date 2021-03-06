@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81897" started-at="2019-04-17T11:49:36Z" finished-at="2019-04-17T11:50:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81897" started-at="2019-04-17T11:49:36Z" finished-at="2019-04-17T11:50:58Z">
+      <class name="combo.ComboTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:combo.ComboTest@5c3bd550]" name="beforeMethod" is-config="true" duration-ms="19937" started-at="2019-04-17T11:49:36Z" finished-at="2019-04-17T11:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Google()[pri:0, instance:combo.ComboTest@5c3bd550]" name="Google" duration-ms="61518" started-at="2019-04-17T11:49:56Z" finished-at="2019-04-17T11:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:combo.ComboTest@5c3bd550]" name="afterMethod" is-config="true" duration-ms="412" started-at="2019-04-17T11:50:57Z" finished-at="2019-04-17T11:50:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- combo.ComboTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
