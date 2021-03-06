@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68906" started-at="2019-04-26T10:22:19Z" finished-at="2019-04-26T10:23:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68906" started-at="2019-04-26T10:22:19Z" finished-at="2019-04-26T10:23:28Z">
+      <class name="screendemo.GoogleTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="beforeMethod" is-config="true" duration-ms="18674" started-at="2019-04-26T10:22:19Z" finished-at="2019-04-26T10:22:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="before" is-config="true" duration-ms="3" started-at="2019-04-26T10:22:38Z" finished-at="2019-04-26T10:22:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void screendemo.GoogleTest.Google() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Google()[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="Google" duration-ms="30213" started-at="2019-04-26T10:22:38Z" finished-at="2019-04-26T10:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-04-26T10:23:08Z" finished-at="2019-04-26T10:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="before" is-config="true" duration-ms="0" started-at="2019-04-26T10:23:08Z" finished-at="2019-04-26T10:23:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void screendemo.GoogleTest.Google1() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Google1()[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="Google1" duration-ms="566" started-at="2019-04-26T10:23:08Z" finished-at="2019-04-26T10:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-26T10:23:09Z" finished-at="2019-04-26T10:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Google2()[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="Google2" duration-ms="17166" started-at="2019-04-26T10:23:09Z" finished-at="2019-04-26T10:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google2 -->
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="before" is-config="true" duration-ms="0" started-at="2019-04-26T10:23:09Z" finished-at="2019-04-26T10:23:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void screendemo.GoogleTest.Google2() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="before" is-config="true" duration-ms="1" started-at="2019-04-26T10:23:26Z" finished-at="2019-04-26T10:23:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void screendemo.GoogleTest.Google3() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-26T10:23:26Z" finished-at="2019-04-26T10:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Google3()[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="Google3" duration-ms="2047" started-at="2019-04-26T10:23:26Z" finished-at="2019-04-26T10:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-26T10:23:28Z" finished-at="2019-04-26T10:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:screendemo.GoogleTest@776aec5c]" name="afterTest" is-config="true" duration-ms="209" started-at="2019-04-26T10:23:28Z" finished-at="2019-04-26T10:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- screendemo.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

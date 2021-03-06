@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="screendemo.GoogleFactory">
+				<method>
+					<include name="Google" />
+					<include name="Google1" />
+					<include name="Google2" />
+					<include name="Google3" />
+				</method>
+				<class name="search.SearchTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

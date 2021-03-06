@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="cnbcTest.CnbcTestdemo">
+        <methods>
+          <include name="beforetest"/>
+          <include name="before"/>
+          <include name="VideoVerification"/>
+          <include name="afterTest"/>
+          <include name="afterMethod1"/>
+          <include name="afterMethod"/>
+          <include name="before1"/>
+        </methods>
+      </class> <!-- cnbcTest.CnbcTestdemo -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

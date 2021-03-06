@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45053" started-at="2019-04-30T12:35:21Z" finished-at="2019-04-30T12:36:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45053" started-at="2019-04-30T12:35:21Z" finished-at="2019-04-30T12:36:06Z">
+      <class name="flipkartTest.FlipTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:flipkartTest.FlipTest@587c290d]" name="beforeMethod" is-config="true" duration-ms="20688" started-at="2019-04-30T12:35:21Z" finished-at="2019-04-30T12:35:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:flipkartTest.FlipTest@587c290d]" name="before" is-config="true" duration-ms="7" started-at="2019-04-30T12:35:43Z" finished-at="2019-04-30T12:35:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartTest.FlipTest.LogIn(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="LogIn(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:flipkartTest.FlipTest@587c290d]" name="LogIn" duration-ms="21577" started-at="2019-04-30T12:35:43Z" data-provider="Authentication" finished-at="2019-04-30T12:36:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SampleFactory]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Flipkart]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8475864264]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[@May2019]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Ayushi]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Agra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:flipkartTest.FlipTest@587c290d]" name="afterMethod" is-config="true" duration-ms="3" started-at="2019-04-30T12:36:05Z" finished-at="2019-04-30T12:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:flipkartTest.FlipTest@587c290d]" name="afterTest" is-config="true" duration-ms="910" started-at="2019-04-30T12:36:05Z" finished-at="2019-04-30T12:36:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- flipkartTest.FlipTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

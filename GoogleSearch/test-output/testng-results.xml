@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="142336" started-at="2019-04-24T10:08:28Z" finished-at="2019-04-24T10:10:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="142336" started-at="2019-04-24T10:08:28Z" finished-at="2019-04-24T10:10:50Z">
+      <class name="google.GoogleTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:google.GoogleTest@38c5cc4c]" name="beforeMethod" is-config="true" duration-ms="34514" started-at="2019-04-24T10:08:28Z" finished-at="2019-04-24T10:09:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:google.GoogleTest@38c5cc4c]" name="before" is-config="true" duration-ms="7" started-at="2019-04-24T10:09:03Z" finished-at="2019-04-24T10:09:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void google.GoogleTest.Google() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Google()[pri:0, instance:google.GoogleTest@38c5cc4c]" name="Google" duration-ms="79748" started-at="2019-04-24T10:09:03Z" finished-at="2019-04-24T10:10:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:google.GoogleTest@38c5cc4c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-24T10:10:22Z" finished-at="2019-04-24T10:10:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:google.GoogleTest@38c5cc4c]" name="before" is-config="true" duration-ms="1" started-at="2019-04-24T10:10:22Z" finished-at="2019-04-24T10:10:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void google.GoogleTest.Google1() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Google1()[pri:0, instance:google.GoogleTest@38c5cc4c]" name="Google1" duration-ms="7224" started-at="2019-04-24T10:10:22Z" finished-at="2019-04-24T10:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:google.GoogleTest@38c5cc4c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-24T10:10:30Z" finished-at="2019-04-24T10:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:google.GoogleTest@38c5cc4c]" name="before" is-config="true" duration-ms="0" started-at="2019-04-24T10:10:30Z" finished-at="2019-04-24T10:10:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void google.GoogleTest.Google2() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Google2()[pri:0, instance:google.GoogleTest@38c5cc4c]" name="Google2" duration-ms="17356" started-at="2019-04-24T10:10:30Z" finished-at="2019-04-24T10:10:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:google.GoogleTest@38c5cc4c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-24T10:10:47Z" finished-at="2019-04-24T10:10:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:google.GoogleTest@38c5cc4c]" name="before" is-config="true" duration-ms="1" started-at="2019-04-24T10:10:47Z" finished-at="2019-04-24T10:10:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void google.GoogleTest.Google3() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Google3()[pri:0, instance:google.GoogleTest@38c5cc4c]" name="Google3" duration-ms="2033" started-at="2019-04-24T10:10:47Z" finished-at="2019-04-24T10:10:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:google.GoogleTest@38c5cc4c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-24T10:10:49Z" finished-at="2019-04-24T10:10:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:google.GoogleTest@38c5cc4c]" name="afterTest" is-config="true" duration-ms="774" started-at="2019-04-24T10:10:49Z" finished-at="2019-04-24T10:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- google.GoogleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

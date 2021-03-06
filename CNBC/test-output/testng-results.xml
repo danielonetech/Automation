@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="154424" started-at="2019-06-16T19:34:59Z" finished-at="2019-06-16T19:37:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="154424" started-at="2019-06-16T19:34:59Z" finished-at="2019-06-16T19:37:33Z">
+      <class name="cnbcTest.CnbcTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:cnbcTest.CnbcTest@49e202ad]" name="beforeMethod" is-config="true" duration-ms="74926" started-at="2019-06-16T19:34:59Z" finished-at="2019-06-16T19:36:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:cnbcTest.CnbcTest@49e202ad]" name="before" is-config="true" duration-ms="5" started-at="2019-06-16T19:36:15Z" finished-at="2019-06-16T19:36:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cnbcTest.CnbcTest.VideoVerification(java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="VideoVerification(java.lang.String)[pri:0, instance:cnbcTest.CnbcTest@49e202ad]" name="VideoVerification" duration-ms="78047" started-at="2019-06-16T19:36:15Z" data-provider="Authentication" finished-at="2019-06-16T19:37:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SampleFactory]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VideoVerification -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:cnbcTest.CnbcTest@49e202ad]" name="afterMethod" is-config="true" duration-ms="3" started-at="2019-06-16T19:37:33Z" finished-at="2019-06-16T19:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:cnbcTest.CnbcTest@49e202ad]" name="afterTest" is-config="true" duration-ms="623" started-at="2019-06-16T19:37:33Z" finished-at="2019-06-16T19:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- cnbcTest.CnbcTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
